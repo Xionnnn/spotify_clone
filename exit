@@ -1,0 +1,13 @@
+[33mcommit 2cf3cf4c7b1c43a7c540f9b9f0ecfaddfe5853b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mHomePage[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HomePage[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Arvin Hasim <arvin.hasim@binus.ac.id>
+Date:   Mon Oct 20 19:25:15 2025 +0700
+
+    #feat Update ReadMe
+    
+    Added project description and tech stack details.
+
+[33mcommit abf9f74eae05d652785ff6e98b009d272edfe27b[m
+Author: Arvin Hasim <arvin.hasim@binus.ac.id>
+Date:   Mon Oct 20 18:42:16 2025 +0700
+
+    Initial commit from Create Next App
